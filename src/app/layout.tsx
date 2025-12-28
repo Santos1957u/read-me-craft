@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
+import { ReadmeProvider } from "@/context/ReadmeContext";
 import "./globals.css";
+import "github-markdown-css/github-markdown-light.css";
 
 export const metadata: Metadata = {
   title: "ReadMe Craft — Конструктор README для разработчиков",
@@ -14,8 +16,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="ru">
-      <body className="min-h-screen bg-gray-50 text-gray-900 antialiased">
-        {children}
+      <body className="min-h-screen antialiased">
+        <ReadmeProvider>{children}</ReadmeProvider>
       </body>
     </html>
   );
